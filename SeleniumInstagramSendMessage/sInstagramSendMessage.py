@@ -42,7 +42,7 @@ class Instagram:
        
 
 
-a = Instagram("umut.saydm", "umtsydm01")
+a = Instagram("your.username", "your.password")
 a.signIn()
 
-a.sendMessage("turker_saydam", "sdfsdfsd")
+a.sendMessage("target person's username", "your messages")
